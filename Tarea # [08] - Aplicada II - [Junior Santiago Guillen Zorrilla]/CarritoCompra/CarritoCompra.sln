@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarritoCompra", "CarritoCompra\CarritoCompra.csproj", "{77C7CB04-547E-400D-88D5-77FFC42EA2FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DC2273AC-3633-4682-900F-FF8393E4373B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{426388F7-D750-4B3B-A276-D3ED34BE6012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C7CB04-547E-400D-88D5-77FFC42EA2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C7CB04-547E-400D-88D5-77FFC42EA2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C7CB04-547E-400D-88D5-77FFC42EA2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C7CB04-547E-400D-88D5-77FFC42EA2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2273AC-3633-4682-900F-FF8393E4373B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2273AC-3633-4682-900F-FF8393E4373B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2273AC-3633-4682-900F-FF8393E4373B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2273AC-3633-4682-900F-FF8393E4373B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426388F7-D750-4B3B-A276-D3ED34BE6012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426388F7-D750-4B3B-A276-D3ED34BE6012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426388F7-D750-4B3B-A276-D3ED34BE6012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426388F7-D750-4B3B-A276-D3ED34BE6012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

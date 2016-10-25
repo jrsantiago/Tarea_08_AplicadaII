@@ -1,0 +1,10 @@
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\CarritoCompra.dll.config
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\CarritoCompra.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\CarritoCompra.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\BLL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\DAL.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\BLL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\bin\DAL.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\obj\Debug\CarritoCompra.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\obj\Debug\CarritoCompra.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea # [08] - Aplicada II - [Junior Santiago Guillen Zorrilla]\CarritoCompra\CarritoCompra\obj\Debug\CarritoCompra.pdb
